@@ -1,5 +1,3 @@
-
-
 ## Problem Statement
 
 Unemployment, a critical economic indicator, is typically quantified using the unemployment rate, which represents the proportion of individuals without employment within the total labor force. The COVID-19 pandemic has significantly impacted the global labor market, resulting in a substantial surge in the unemployment rate. Analyzing and comprehending the dynamics of this economic metric through data science can offer valuable insights and potential solutions.
